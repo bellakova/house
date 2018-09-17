@@ -143,6 +143,15 @@ public class Canvas
         else if(colorString.equals("white")) {
             graphic.setColor(Color.white);
         }
+        /**
+         * Cherry Blossom Colors
+         */
+        else if(colorString.equals("blurple")) {
+            graphic.setColor(new Color(92, 110, 143));
+        }
+        else if(colorString.equals("blossom")) {
+            graphic.setColor(new Color(211, 160, 169));
+        }
         else {
             graphic.setColor(Color.black);
         }
