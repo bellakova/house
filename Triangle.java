@@ -5,6 +5,11 @@ import java.awt.*;
  * 
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
+ * 
+ * Isabella Kovarik
+ * 2018.09.17
+ * 
+ * I set the position to 0,0
  */
 
 public class Triangle
